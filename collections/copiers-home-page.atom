@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesaletonersonline.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesaletonersonline.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesaletonersonline.ca/collections/copiers-home-page.atom"/>
+  <title> Wholesale Toners Online</title>
+  <updated>2019-05-30T15:48:52-04:00</updated>
+  <author>
+    <name> Wholesale Toners Online</name>
+  </author>
+  <entry>
+    <id>https://wholesaletonersonline.ca/products/3768952782912</id>
+    <published>2019-05-30T15:48:52-04:00</published>
+    <updated>2019-05-30T15:48:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaletonersonline.ca/products/pre-owned-newer-model-xerox-altalink-b8055-black-and-white-printer-copier-color-scanner-11x17"/>
+    <title>Pre-owned Newer Model Xerox Altalink B8055 Black and White Printer Copier Color Scanner 11x17</title>
+    <s:type>Monochrome Copiers</s:type>
+    <s:vendor>Xerox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/3761/6448/products/X-B8075.jpg?v=1571709923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerox<br>
+        <strong>Type: </strong>Monochrome Copiers<br>
+        <strong>Price: </strong>
+            3950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Easy to manage as a standalone device or as part of an entire fleet, it's designed to enable fast multitasking and collaboration. Create customized 1-Touch Apps to automate multi-step workflows. Simply tap your new app to quickly perform the job you configured. And save time by scanning to multiple destinations, including a USB drive, network location and SMB share location, all in one operation.</div>
+<ul>
+<li>Standard Functions: Copy, Print, Color Scan, Scan to Email, 11x17, 12x18, 2-trays</li>
+<li>Optional Fax, Finisher, Extra 2-trays</li>
+<li>Print Speed: Up to 55 PPM</li>
+<li>Print resolution: 1200 x 1200 dpi</li>
+<li>Single-Pass Duplex Automatic Document Feeder: scans documents at up to 200 images per minute</li>
+<li>Connectivity: 10/100/1000Base-T Ethernet, High-Speed USB 2.0 direct print, Wi-Fi Direct</li>
+<li>Control Panel: 10" colour, customizable tablet-like user interface</li>
+<li>Black toner yield 50,000 pages</li>
+<li>Black Drum Yield 200,000 Pages</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesaletonersonline.ca/products/3768952782912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3950.00</s:price>
+      <s:sku>X00B055</s:sku>
+      <s:grams>30000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaletonersonline.ca/products/3768953733184</id>
+    <published>2019-05-30T15:48:39-04:00</published>
+    <updated>2019-05-30T15:48:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaletonersonline.ca/products/pre-owned-xerox-color-c75-press-production-printer-business-copier-large-capacity-tray-booklet-maker-finisher"/>
+    <title>Pre-owned Xerox Color C75 Press Production Printer Business Copier Large Capacity Tray Booklet maker Finisher</title>
+    <s:type>Color Copiers</s:type>
+    <s:vendor>Xerox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/3761/6448/products/X_C75_J75_700_770.jpg?v=1571709923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Xerox<br>
+        <strong>Type: </strong>Color Copiers<br>
+        <strong>Price: </strong>
+            10500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Versatility is also an outstanding way to differentiate yourself in a crowded marketplace. The Xerox Color C75 Press is big production power in a small footprint. It gives you the flexibility to produce the most demanding print jobs. It's simple enough to let you spend less time printing and more time at the other tasks of running your business. And it brings you increased walk-up capabilities while you reduce costs at the same time.</div>
+<ul>
+<li>Copy, Print, Scan, Scan to Email, 11x17, 12x18, 13x19, booklet maker finisher, large capacity tray</li>
+<li>Print/Copy Speed:  up to 75 PPM</li>
+<li>Scan Speed: 200 IPM</li>
+<li>Print Resolution: 2400 x 2400 dpi</li>
+<li>Duplex Automatic Document Feeder</li>
+<li>Standard paper capacity: 1,900 sheets</li>
+<li>Maximum paper capacity with options: 5,900 sheets</li>
+<li>300,000 pages/month</li>
+<li>Printed Sides: Duplex</li>
+<li>Black Toner Yield 20,000 Pages</li>
+<li>Color Toner Yield 22,000 pages</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesaletonersonline.ca/products/3768953733184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10500.00</s:price>
+      <s:sku>X007C75</s:sku>
+      <s:grams>30000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaletonersonline.ca/products/3768951210048</id>
+    <published>2019-05-30T15:48:37-04:00</published>
+    <updated>2019-05-30T15:48:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaletonersonline.ca/products/pre-owned-ricoh-mp-c4503-multifunction-color-photocopier-45ppm-11x17-12x18"/>
+    <title>Pre Owned Ricoh MP C4503 Multifunction Color Photocopier 45PPM 11x17 12x18</title>
+    <s:type>Color Copiers</s:type>
+    <s:vendor>Ricoh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/3761/6448/products/MP-C4502-1_8ac611e6-82ef-42d7-98c3-28a6383feefb.jpg?v=1571709923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ricoh<br>
+        <strong>Type: </strong>Color Copiers<br>
+        <strong>Price: </strong>
+            2950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Integrate smarter strategies into your workflows with the RICOH MP C4503 Color Laser Multifunction Printer (MFP). Enjoy fast, efficient print jobs at to 45 pages per minute (ppm) for vibrant prints in color or black and white. Scan both sides of a two-sided original in a single pass with the standard 220-sheet single pass document feeder (SPDF).</div>
+<ul>
+<li>Color Laser Multifunction Printer</li>
+<li>Customizable and color ready</li>
+<li>Standard Functions: Copy, Print, Scan, Scan to Email, 11x17, 12x18, 2-trays</li>
+<li>Optional Fax, Stapler, Finisher, Extra 2-trays</li>
+<li>Prints up to 45 ppm, copy, scan</li>
+<li>Scanning Speed (B/W and Color LTR): 110 ipm Simplex / 180 ipm Duplex</li>
+<li>Standard Automatic Duplexing</li>
+<li>1200x1200 dpi max print resolution</li>
+<li>Operation Panel: 10'1" Wide Super VGA Smart - a vibrant, full-color display with simple touch-screen functionality for easy operation</li>
+<li>Black toner yield 33,000 pages</li>
+<li>Colour toner yield 22,500 pages</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesaletonersonline.ca/products/3768951210048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2950.00</s:price>
+      <s:sku>R005MPC4503</s:sku>
+      <s:grams>30000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaletonersonline.ca/products/3768950456384</id>
+    <published>2019-05-30T15:48:36-04:00</published>
+    <updated>2019-05-30T15:48:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaletonersonline.ca/products/pre-owned-ricoh-mp-c2003-color-office-multifunction-copier-printer-scanner-11x17-12x18"/>
+    <title>Pre Owned Ricoh MP C2003 Color Office Multifunction Copier Printer Scanner 11x17 12x18</title>
+    <s:type>Color Copiers</s:type>
+    <s:vendor>Ricoh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/3761/6448/products/MP-C5503.jpg?v=1571709923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ricoh<br>
+        <strong>Type: </strong>Color Copiers<br>
+        <strong>Price: </strong>
+            1950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Regardless of your space or budget, you can easily find room for the RICOH MP C2003 Color Laser Multifunction Printer. Its compact footprint means you can place it almost anywhere, and its optional wireless networking functionality doesn't require a ready Ethernet connection. Plus, you can look forward to quiet operation with noise-reducing features such as Smart Position Motors and Intelligent Airflow Engineering.<br>
+<ul>
+<li>Standard Functions: Copy, Print, Scan, Scan to Email, 11x17, 12x18, 2-trays</li>
+<li>Optional Fax, Stapler, Finisher, Extra 2-trays</li>
+<li>Print/Copy Speed (BandW / Color): 20 PPM </li>
+<li>Scan Speed (BandW / Color): 54 IPM</li>
+<li>Automatic Duplexing</li>
+<li>10'1" - a vibrant, full-color display with touch-screen functionality</li>
+<li>Automatic Reversing Document Feeder : 100 Sheets</li>
+<li>Network Interface: Gigabit Ethernet (1000BaseT/100Base-TX/10Base-T); USB 2.0 Type A, USB 2.0 Type B port, Front USB 2.0/SD Card Slot Interface</li>
+<li>Black Toner cartridge 15,000 pages</li>
+<li>Color Toner cartridge 9,500 pages</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesaletonersonline.ca/products/3768950456384</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1950.00</s:price>
+      <s:sku>R001MPC2003</s:sku>
+      <s:grams>30000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesaletonersonline.ca/products/3768951898176</id>
+    <published>2019-05-30T12:46:52-04:00</published>
+    <updated>2019-05-30T12:46:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesaletonersonline.ca/products/pre-owned-ricoh-mp-3353-b-w-multifunction-photocopier-11x17-copy-machine"/>
+    <title>Pre Owned Ricoh MP 3353 B/W Multifunction Photocopier 11x17 Copy Machine</title>
+    <s:type>Monochrome Copiers</s:type>
+    <s:vendor>Ricoh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0037/3761/6448/products/MP-3053-2.jpg?v=1571709923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ricoh<br>
+        <strong>Type: </strong>Monochrome Copiers<br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Customize the RICOH MP 3353 to accommodate your unique workflows. These versatile MFPs help you print, copy, share and secure a wider range of documents in more places, more conveniently. It's ideal for any small office or workgroup looking to streamline workflow and enhance output from creation to finish at sizes up to 11" x 17". </div>
+<ul>
+<li>Standard Functions: Copy, Print, Scan, Scan to Email, 11x17, 12x18, 2-trays</li>
+<li>Optional Fax, Stapler, Finisher, Extra 2-trays</li>
+<li>Print speed of 33 ppm black and white</li>
+<li>Print Resolution: Up to 600 dpi </li>
+<li>Scan Speed: 79 ipm</li>
+<li>full-color, 9" tiltable LCD control panel featuring a USB/SD card slot and a customizable home screen to link to commonly performed jobs</li>
+<li>Black toner Yield 11,000 pages</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wholesaletonersonline.ca/products/3768951898176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2650.00</s:price>
+      <s:sku>R0093353</s:sku>
+      <s:grams>30000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
